@@ -11,5 +11,5 @@ pip3 install pillow
 mv xolpanel/xolpanel.service /etc/systemd/system/
 systemctl start xolpanel && systemctl enable xolpanel
 ```
-• Buka Bot, ketik .menu
-• kendala / emror?, Lapor di <a href="https://t.me/XolPanelDC">sini</a>
+- Buka Bot, ketik .menu
+- kendala / emror?, Lapor di <a href="https://t.me/XolPanelDC">sini</a>
