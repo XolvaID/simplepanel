@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 WorkingDirectory=/root
-ExecStart=/usr/bin/python3 -m /root/xolpanel
+ExecStart=/usr/bin/python3 -m xolpanel
 Restart=always
 
 [Install]
